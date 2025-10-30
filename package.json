@@ -1,0 +1,23 @@
+{
+  "name": "google-clone",
+  "version": "1.0.0",
+  "description": "Este es un proyecto personal donde recreo la interfaz principal de **Google** usando **HTML, CSS y JavaScript**, y posteriormente lo extiendo con **Node.js** para convertirlo en una aplicación **Full Stack**.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luisnavarrete12/clon-google.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luisnavarrete12/clon-google/issues"
+  },
+  "homepage": "https://github.com/luisnavarrete12/clon-google#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
